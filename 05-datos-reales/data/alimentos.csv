@@ -1,0 +1,16 @@
+alimento,calorias_por_100g,proteinas_g,carbohidratos_g,grasas_g,categoria
+pollo a la plancha,165,31,0,3.6,proteina
+arroz blanco cocido,130,2.7,28,0.3,carbohidrato
+aguacate,160,2,9,15,grasa saludable
+huevo entero,155,13,1.1,11,proteina
+tortilla de maiz,218,5.7,46,2.5,carbohidrato
+frijoles negros cocidos,127,8.9,23,0.5,proteina vegetal
+atun en agua,116,26,0,1,proteina
+platano,89,1.1,23,0.3,carbohidrato
+brocoli,34,2.8,7,0.4,verdura
+salmon,208,20,0,13,proteina
+quinoa cocida,120,4.4,22,1.9,carbohidrato
+almendras,579,21,22,50,grasa saludable
+espinaca,23,2.9,3.6,0.4,verdura
+papa cocida,87,1.9,20,0.1,carbohidrato
+leche entera,61,3.2,4.8,3.3,lacteo

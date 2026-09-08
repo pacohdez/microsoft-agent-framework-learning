@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Archivos generados por los agentes
+menu_semanal.json
+rutina_semanal.json
+05-datos-reales/data/progreso.json
